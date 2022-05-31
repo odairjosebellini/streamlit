@@ -45,6 +45,3 @@ except URLError as e:
     """
         % e.reason
     )
-	
-streamlit run streamlit-datatrame.py
-
